@@ -1,1 +1,2 @@
-# newFor training purpose
+# new
+For training purpose
