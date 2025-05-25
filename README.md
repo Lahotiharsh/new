@@ -1,2 +1,2 @@
 # ne
-For training purpose
+For training purpos
